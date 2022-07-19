@@ -2,6 +2,7 @@
 Libraries to download -
 selenium
 download driver as well - https://www.youtube.com/watch?v=BbQyHKcdbD8 or https://www.selenium.dev/downloads/
+
 replace driver path in executable_path in line 26
 
 
