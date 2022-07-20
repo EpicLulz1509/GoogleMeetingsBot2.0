@@ -8,6 +8,6 @@ replace driver path in executable_path in line 27
 
 put your mail id and pass in lines 11 and 12
 
-put requred day in line 107
+put required day in line 107
 
 put your required google meet links in lines 99 to 103
