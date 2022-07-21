@@ -8,8 +8,8 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 
 # assign email id and password
-mail_address = '21051549@kiit.ac.in'
-password = 'qwe123r4@KiitGmail'
+mail_address = ''
+password = ''
 
 # create chrome instance
 opt = Options()
@@ -96,11 +96,11 @@ def meet(day):
 login(mail_address, password)
 
 # enter meeting links according to your worday here
-monday = ["https://meet.google.com/brh-rbsf-siz", "https://meet.google.com/pnm-jtex-ymn", "https://meet.google.com/quy-gjic-yxf"]
-tuesday = ["https://meet.google.com/pnm-jtex-ymn", "https://meet.google.com/khh-akcm-adv", "https://meet.google.com/brh-rbsf-siz", "https://meet.google.com/kox-ocvc-mbq"]
-wednesday = ["https://meet.google.com/khh-akcm-adv", "https://meet.google.com/qhe-vsqh-dck", "https://meet.google.com/pnm-jtex-ymn", "https://meet.google.com/brh-rbsf-siz"]
-thursday = ["https://meet.google.com/brh-rbsf-siz", "https://meet.google.com/kox-ocvc-mbq", "https://meet.google.com/qhe-vsqh-dck"]
-friday = ["https://meet.google.com/kox-ocvc-mbq", "https://meet.google.com/quy-gjic-yxf", "https://meet.google.com/qhe-vsqh-dck", "https://meet.google.com/khh-akcm-adv", "https://meet.google.com/brh-rbsf-siz"]
+monday = ["", "", ""]
+tuesday = ["", "", "", ""]
+wednesday = ["", "", "", ""]
+thursday = ["", "", ""]
+friday = ["", "", "", "", ""]
 
 
 # enter your day here
